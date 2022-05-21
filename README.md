@@ -16,6 +16,7 @@ streamlit hello
 ```
 streamlit run demo.py
 ```
+
 ### This tutorial git help you to learn basic of streamlit :
 * Displaying data on streamlit app.
 * Displaying plots and media on app.
