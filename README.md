@@ -23,9 +23,9 @@ streamlit run demo.py
 * Adding widgets to app.
 * sidebar, navigation bar , progress bar add into app. 
 
-## First project using streamlit
+## First project 
 [Project 1 : Salary Predictor](https://github.com/amogh9594/basic-of-streamlit/blob/main/app.py)
 
-## Second project using streamlit
+## Second project 
 [Project 2 : Resume Template](https://github.com/amogh9594/personal-cv-streamlit-template)
 
