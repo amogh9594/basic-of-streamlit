@@ -24,8 +24,10 @@ streamlit run demo.py
 * sidebar, navigation bar , progress bar add into app. 
 
 ## First project 
-[Project 1 : Salary Predictor](https://github.com/amogh9594/basic-of-streamlit/blob/main/app.py)
+[Salary Predictor](https://github.com/amogh9594/basic-of-streamlit/blob/main/app.py)
 
 ## Second project 
-[Project 2 : Resume Template](https://github.com/amogh9594/personal-cv-streamlit-template)
+[Resume Template](https://github.com/amogh9594/personal-cv-streamlit-template)
 
+## Third project 
+[Tantra-Lekh | Blogging Website](https://github.com/amogh9594/Tantra-Lekh)
